@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RocketReading - Aplicación de Lectura Rápida",
+  title: "RocketReader🚀 - Aplicación de Lectura Rápida",
   description: "Aplicación para mejorar la velocidad de lectura mediante la técnica de presentación visual rápida de palabras",
 };
 

@@ -420,7 +420,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900">
       <main className="flex-grow container mx-auto px-4 py-8">
         <h1 className="text-3xl font-bold text-center mb-8 text-gray-800 dark:text-white">
-          RocketReading 🚀
+          RocketReader 🚀
         </h1>
 
         {/* Initial Text Input */}
@@ -684,7 +684,7 @@ export default function Home() {
 
       <footer className="bg-white dark:bg-gray-800 py-4 border-t border-gray-200 dark:border-gray-700">
         <div className="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
-          <p>RocketReading 🚀 - Aplicación para lectura rápida</p>
+          <p>RocketReader 🚀 - Aplicación para lectura rápida</p>
         </div>
       </footer>
     </div>
